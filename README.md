@@ -9,6 +9,12 @@
 
 - 🔭 I’m currently working on **Grovr**
 
+- 👯 I’m looking to collaborate on **Data Analyst**
+
+- 📫 How to reach me **nishanthsakthi01@gmail.com**
+
+- ⚡ Fun fact **I think I'm Funny**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
